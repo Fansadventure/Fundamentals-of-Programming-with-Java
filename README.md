@@ -1,6 +1,12 @@
 ### About this repo
 This repository is about my practical course on Fundamentals of Programming back to 2020. Here I collect most of the tasks that I did during the lab course and I also provide my own solution code for these tasks. There is some space for improvement of my coding and I cannot gurantee my solutions are 100% correct, but they passed all required tests that are provided by this course. Any suggestions or alternative solutions are highly welcome. 
 
+#### Task Description
+All tasks are given in German language, because this course is in German.
+
+#### Java
+My solution was written with Java15 (this course was in 2020). IDE used is Intellij IDEA.
+
 #### MiniJava
 The MiniJava file in the solution are provided together with some of the tasks and we are required to use it in our solution for the tasks. MiniJava provides the following functions for:
 
